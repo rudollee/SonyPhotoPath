@@ -1,5 +1,4 @@
 ﻿using System.Drawing;
-using System.Runtime.CompilerServices;
 using System.Text;
 
 string[] files = Directory.GetFiles(@"E:\DCIM", "*.jpg", SearchOption.AllDirectories);
